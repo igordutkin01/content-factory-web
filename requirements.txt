@@ -1,4 +1,0 @@
-flask
-authlib
-requests
-psycopg2-binary
